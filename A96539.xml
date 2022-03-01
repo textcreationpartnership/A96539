@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace between the most serene and mighty Prince William the Third, King of Great-Britain, and the most serene and mighty Prince Lewis the Fourteenth the most Christian King, concluded in the Royal Pallace at Ryswicke the 10/20. day of September, 1697.</title>
+            <title>Treaty of Ryswick (1697)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96539</idno>
+            <idno type="STC">Wing W2310</idno>
+            <idno type="STC">ESTC R186595</idno>
+            <idno type="EEBO-CITATION">45578510</idno>
+            <idno type="OCLC">ocm 45578510</idno>
+            <idno type="VID">172423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172423)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2629:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace between the most serene and mighty Prince William the Third, King of Great-Britain, and the most serene and mighty Prince Lewis the Fourteenth the most Christian King, concluded in the Royal Pallace at Ryswicke the 10/20. day of September, 1697.</title>
+                  <title>Treaty of Ryswick (1697)</title>
+                  <author>England and Wales. Treaties, etc. France, 1697 Sept. 20</author>
+                  <author>France. Treaties, etc. England and Wales, 1697 Sept. 20.</author>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+               </titleStmt>
+               <extent>5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heirs and successors of Andrew Anderson, printer to the Kings most excellent majesty,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697.</term>
+               <term>Great Britain --  Foreign relations --  France.</term>
+               <term>France --  Foreign relations --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="articles">
+            <pb facs="tcp:172423:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>W R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>ARTICLES OF PEACE BETWEEN The Moſt Serene and Mighty Prince <hi>WILLIAM</hi> the Third. King of <hi>Great-Britain,</hi> and the Moſt Serene and Mighty Prince <hi>LEWIS</hi> the Fourteenth, the Moſt Chriſtian King, Concluded in the Royal Pallace at <hi>Ryſwicke</hi> the 10/20. Day of <hi>September,</hi> 1697.</head>
+            <byline>By Command of Their Excellencies the Lords Juſtices.</byline>
+            <p n="1">I. THAT there be an Univerſal Perpetual Peace, and a True and Sincere Friendſhip between the moſt Serene and Mighty Prince <hi>WILLIAM</hi> the Third, King of <hi>Great-Britain,</hi> and the moſt Serene and Mighty Prince <hi>LEWIS</hi> the Fourteenth the moſt Chriſtian King, Their Heirs and Succeſſors, and between the Kingdoms, States and Subjects of Both, and that the ſame be ſo ſincerely and Inviolably Obſerved and Kept, that the One ſhall promote the Intereſt, Ho<g ref="char:EOLhyphen"/>nour, and Advantage of the Other, and that on both ſides a Faithful Neigh<g ref="char:EOLhyphen"/>bourhood and true Obſervation of Peace and Friendſhip, may dayly Flou<g ref="char:EOLhyphen"/>riſh and Encreaſe.</p>
+            <pb n="2" facs="tcp:172423:2"/>
+            <p n="2">II. THAT all Enmities, Hoſtilities, Diſcords, and Wars, between the ſaid King of <hi>Great-Britain</hi> and the moſt Chriſtian King, and Their Subjects, Ceaſe and be Aboliſhed, ſo that on both ſides They Forbear and Abſtain hereafter from all Plundering, Depredation, Harm-doing, Injuries, and Infeſtation whatſoever, as well by Land as by Sea, and on Freſh-Waters, every where; and eſpecially throughout all the Kingdoms, Territories, Dominions, and Places belonging to each other, of what Condition ſoever they be.</p>
+            <p n="3">III. THAT all Offences, Injuries, Damages, which the ſaid King of <hi>Great-Britain</hi> and His Subjects, or the ſaid moſt Chriſtian King and his Subjects have ſuffered from each other during this War, ſhall be forgotten, ſo that neither on Account of them, or for any other Cauſe or Pretence, neither Par<g ref="char:EOLhyphen"/>ty, or the Subjects of either, ſhall hereafter do, cauſe or ſuffer to be done any Hoſtility, Enmity, Moleſtation, or Hindrance to the other, by himſelf or others, Secretly or Openly, Directly or Indirectly, by Colour of Right or Way of Fact.</p>
+            <p n="4">IV. AND ſince the moſt Chriſtian King was never more deſirous of any thing, than that the Peace be Firm and Inviolable, the ſaid King Promiſes and A<g ref="char:EOLhyphen"/>grees for Himſelf and His Succeſſors, That He will on no Account whatſo<g ref="char:EOLhyphen"/>ever diſturb the ſaid King of <hi>Great-Britain</hi> in the free Poſſeſſion of the King<g ref="char:EOLhyphen"/>doms, Countries, Lands or Dominions which He now Enjoys, and there<g ref="char:EOLhyphen"/>fore engages His Honour, upon the Faith and Word of a King, that He will not give or Afford any Aſſiſtance, directly or indirectly, to any Enemy or Enemies of the ſaid King of <hi>Great-Britain;</hi> And that He will in no manner, whatſoever favour the Conſpiracies or <hi>Plots</hi> which any Rebels, or ill diſpo<g ref="char:EOLhyphen"/>ſed Perſons, may in any Place Excite or Contrive againſt the ſaid King; And for that End Promiſes and Engages, That He will not Aſſiſt with Arms, Ships, Ammunition, Proviſions, or Money, or in any other way, by Sea or Land, any Perſon or Perſons, who ſhall hereafter, under any pretence whatſoever, Diſturb or Moleſt the ſaid King of <hi>Great-Britain</hi> in the free and full Poſſeſſion of His Kingdoms, Countries, Lands and Dominions. The King of <hi>Great-Britain</hi> likewiſe Promiſes and Engages for Himſelf and Succeſſors, Kings of <hi>Great-Britain,</hi> That He will Inviolably Do and Perform the ſame towards the ſaid moſt Chriſtian King, His Kingdoms, Countries, Lands and Domi<g ref="char:EOLhyphen"/>nions.</p>
+            <p n="5">V. THAT there be a free uſe of Navigation and Commerce between the Sub<g ref="char:EOLhyphen"/>jects of both the ſaids Kings, as was formerly in the time of Peace, and be<g ref="char:EOLhyphen"/>fore the Declaration of the late War, ſo that every one of them may freely come into the Kingdoms, Marts, Ports and Rivers of either of the ſaid Kings with their Merchandiſes, and may there Continue and Trade without any Moleſtation, and ſhall Uſe and Enjoy all Liberties, Immunities and Priviled<g ref="char:EOLhyphen"/>ges granted by Solemn Treaties, and Antient Cuſtom.</p>
+            <p n="6">VI. THAT the ordinary Adminiſtration of Juſtice ſhall be Reſtored and ſet open, throughout the Kingdoms and Dominions of both Kings, ſo that it ſhal be Free for all the Subjects of Either, to Claim and Obtain their Rights, Pretentions and Actions, according to the Laws, Conſtitutions and Statutes of each Kingdom.</p>
+            <pb n="3" facs="tcp:172423:2"/>
+            <p n="7">VII. The Moſt Chriſtian King ſhall reſtore to the ſaid King of <hi>Great-Britan,</hi> all Countries, Iſlands, Forts and Colonies whereſoever Situated, which the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> did Poſſeſs before the Declaration of this preſent War. And in like ma<g ref="char:EOLhyphen"/>ner the King of <hi>Great-Britain</hi> ſhall Reſtore to the moſt Chriſtian King all Countries, Iſlands, Forts and Colonies whereſoever Situated, which the <hi>French</hi> did Poſſeſs before the ſaid Declaration of War. And this Reſtitution ſhall be made on both Sides, within the Space of Six Months, or ſooner if it can be done. And to that end immediately after the Ratification of this Treaty, each of the ſaid Kings ſhall Deliver, or cauſe to be Delivered to the other, or to Commiſſioners Authorized in His Name for that Purpoſe, All Acts of Con<g ref="char:EOLhyphen"/>ceſſion, Inſtruments, and neceſſary Orders, duly Made and in proper Form; ſo that they may have their Effect.</p>
+            <p n="8">VIII. COMMISSIONERS ſhall be appointed on both ſides, to Examine and De<g ref="char:EOLhyphen"/>termine the Rights and Pretenſions which either of the ſaid Kings hath to the Places Situated in <hi>Hudſons-Bay;</hi> But the Poſſeſſion of thoſe Places which were taken by the <hi>French,</hi> during the Peace that preceded this preſent War, and where retaken by the <hi>Engliſh,</hi> during this War, ſhall be left to the <hi>French,</hi> by virtue of the Foregoing Article. The Capitulation made by the <hi>Engliſh</hi> on the Fifth of <hi>September,</hi> 1696. ſhall be Obſerved, according to its Form and Tenor; The Merchandiſes therein men<g ref="char:EOLhyphen"/>tioned ſhall be reſtored; The Governour of the Fort taken there ſhall be ſet at Liberty, if it be not already done; The Differences ariſen concerning the Execution of the ſaid Capitulation, and the value of the Goods there loſt, ſhall be adjudged and determined by the ſaid Commiſſioners; who immedi<g ref="char:EOLhyphen"/>ately after the Ratification of the preſent Treaty, ſhall be Inveſted with ſuffi<g ref="char:EOLhyphen"/>cient Authority for ſettling the Limits and Confines of the Lands to be reſto<g ref="char:EOLhyphen"/>red on either ſide, by virtue of the foregoing Article, and likewiſe for ex<g ref="char:EOLhyphen"/>changing of Lands, as may conduce to the mutual Intereſt and Advantage of both Kings.</p>
+            <p>And to this end the Commiſſioners, ſo appointed, ſhall within the ſpace of Three Months from the Ratification of the preſent Treaty, meet in the City of <hi>London,</hi> and within Six Months, to be reckoned from their Firſt Meeting, ſhall Determine all Differences and Diſputes which may ariſe concerning this matter; After which, the Articles the ſaid Commiſſioners ſhall Agree to, ſhall be Ratified by both Kings, and ſhall have the ſame Force and Vigour, as if they were inſerted Word for Word in the preſent Treaty.</p>
+            <p n="9">IX. ALL Letters, as well of Repriſal as of Marque and Counter-Marque, which hitherto have for any cauſe been granted on either ſide, ſhall be, and remain Null and Void; Nor ſhall any the like Letters be hereafter granted by either of the ſaid Kings againſt the Subjects of the Other, unleſs it be firſt made manifeſt, that Right hath been denyed; and it ſhall not be taken for a denial of Right, unleſs the Petition of the Perſon, who deſires Letters of Repriſal to be granted to him, be firſt ſhewd to the Miniſter, reſiding there on the part of the King, againſt whoſe Subjects thoſe Letters are deſired; That within the ſpace of Four Months or ſooner, he may inquire into the contrary, or pro<g ref="char:EOLhyphen"/>cure that ſatisfaction be made with all ſpeed from the party offending, to the Complainant. But if the King againſt whoſe Subjects Repriſals are demanded, have no Miniſter reſiding there. Letters of Repriſal ſhall not be granted, till after the ſpace of Four Months, to be Reckoned from the Day on which his Petition was made and preſented to the King, againſt whoſe Subjects Repri<g ref="char:EOLhyphen"/>ſals are deſired, or to his Privy Council.</p>
+            <pb n="4" facs="tcp:172423:3"/>
+            <p n="10">X. <hi>For</hi> cutting off all Matter of Diſpute and Contention, which may ariſe concern<g ref="char:EOLhyphen"/>ing the Reſtitution of Ships, Merchandiſes, and other Moveable Goods, which ei<g ref="char:EOLhyphen"/>ther Party may complain to be taken and detained from the other, in Countries, and on Coaſts far diſtant, after the Peace is concluded, and before it be notified there; All Ships, Merchandiſes, and other Moveable Goods, which ſhall be ta<g ref="char:EOLhyphen"/>ken by either ſide, after the Signing and Publication of the preſent Treaty, with<g ref="char:EOLhyphen"/>in the ſpace of Twelve days in the <hi>Britiſh</hi> and <hi>North</hi> Seas, as far as the Cape St. <hi>Vincent;</hi> Within the ſpace of Ten Weeks beyond the ſaid Cape, and on this ſide of the <hi>Equinoctial Line</hi> or <hi>Equator,</hi> as well in the Ocean and <hi>Mediterranean</hi> Sea as elſe<g ref="char:EOLhyphen"/>where; Laſtly, Within the ſpace of Six Months beyond the ſaid Line throughout the whole World, ſhall belong and remain unto the Poſſeſſors, without any Exce<g ref="char:EOLhyphen"/>ption or further Diſtinction of Time or Place, or any Conſideration to be had of Reſtitution or Compenſation.</p>
+            <p n="11">XI. <hi>But</hi> if it happens through Inadvertency or Imprudence, or any other Cauſe whatever, that any Subject of either of the ſaid Two Kings, ſhall do or commit any thing by Land or Sea, or on Freſh Water, any where, contrary to the preſent Treaty, or that any Particular Article thereof is not Fulfilled; This Peace and good Correſpondence between the ſaid Two Kings ſhall not on that Account be Interrupted or Infringed, but ſhall remain in its former Force, Strength and Vi<g ref="char:EOLhyphen"/>gour, and the ſaid Subject only ſhall Anſwer for his own Fact, and undergo the Puniſhment to be Inflicted, according to the Cuſtom and Law of Nations.</p>
+            <p n="12">XII. <hi>But</hi> if (which God forbid) the Differences now Compoſed between the ſaid Kings ſhould at any time be renewed, and break out into open War, the Ships, Merchandiſes, and all kind of Moveable Goods of either Party, which ſhall be found to be and remain in the Ports and Dominions of the Adverſe Party, ſhall not be Confiſcated or brought under any Inconveniency, but the whole ſpace of Six Months ſhall be allowed to the Subjects of both of the ſaid Kings, that they may carry away and Tranſport the foreſaid Goods, and any thing elſe that is theirs, whither they ſhall think fit, without any Moleſtation.</p>
+            <p n="13">XIII. <hi>For</hi> what concerns the Principality of <hi>Orange,</hi> and other Lands and Dominions be<g ref="char:EOLhyphen"/>longing to the ſaid King of <hi>Great-Britain;</hi> The ſeparate Article of the Treaty of <hi>Nimeguen,</hi> concluded between the moſt Chriſtian King and the States General of the United Provinces the 10th day of <hi>August</hi> 1678. ſhall, according to its Form and Tenor, have full Effect, and all things that have been Innovated and Altered, ſhall be reſtored as they were before. All Decrees, Edicts, and other Acts, of what kind ſoever they be, without exception, which are in any manner contrary to the ſaid Treaty, or were made after the Concluſion thereof, ſhall be held to be Null and Void, without any Revival or Conſequence for the future: And all things ſhall be reſtored to the ſaid King in the ſame ſtate, and in the ſame man<g ref="char:EOLhyphen"/>ner, as he held and enjoyed them before he was diſpoſſeſſed thereof in the time of the War, which was ended by the ſaid Treaty of <hi>Nimeguen,</hi> or which he ought to have held and enjoyed according to the ſaid Treaty. And that an end may be put to all Trouble, Differences, Proceſſes and Queſtions, which may ariſe concerning the ſame, Both the ſaid Kings will name Commiſſioners, who, with full and ſum<g ref="char:EOLhyphen"/>mary Power, may compoſe and ſettle all theſe Matters. And foraſmuch as by the Authority of the moſt Chriſtian King, the King of <hi>Great-Britain</hi> was hinder<g ref="char:EOLhyphen"/>ed from enjoying the Revenues, Rights and Profits, as well of His Principality of <hi>Orange,</hi> as of other His Dominions, which after the Concluſion of the Treaty of <hi>Nimeguen,</hi> until the Declaration of the preſent War, were under the Power of the ſaid moſt Chriſtian King, The ſaid moſt Chriſtian King will Reſtore, and cauſe to be Reſtored in reality, with Effect, and with the Intereſt due, all thoſe Reve<g ref="char:EOLhyphen"/>nues, Rights and Profits, according to the Declarations and Verifications that ſhall be made before the ſaid Commiſſioners.</p>
+            <p n="14">XIV. <hi>The</hi> Treaty of Peace Concluded between the moſt Chriſtian King, and the late Elector of <hi>Brandenburgh</hi> at St. <hi>Germains in Laye</hi> the 29 <hi>June,</hi> 1679. ſhall be Reſto<g ref="char:EOLhyphen"/>red in all its Articles, and remain in its former Vigour between His Sacred Moſt Chriſtian Majeſty, and his Electoral Highneſs of <hi>Brandenburgh.</hi>
+            </p>
+            <pb n="5" facs="tcp:172423:3"/>
+            <p n="15">XV. <hi>Whereas</hi> 'twill greatly conduce to the publick Tranquility that the Treaty be ob<g ref="char:EOLhyphen"/>ſerved, which was Concluded between His Sacred moſt Chriſtian Majeſty and His Highneſs of <hi>Savoy,</hi> on the Ninth of <hi>Auguſt,</hi> 1696. 'tis Agreed that the ſaid Treaty shall be confirmed by this Article.</p>
+            <p n="16">XVI. <hi>Under</hi> this preſent Treaty of Peace shall be comprehended thoſe who shall be na<g ref="char:EOLhyphen"/>med by either Party, with common conſent, before the Exchange of Ratifications, or within Six Months after. But in the mean time, the moſt Serene and Mighty Prince <hi>WILLIAM</hi> King of <hi>Great-Britain,</hi> and the moſt Serene and Mighty Prince <hi>Lewis</hi> the moſt Chriſtian King, gratefully acknowleding the ſincere Offices and In<g ref="char:EOLhyphen"/>defaticable Endeavours, which have been employed by the moſt Serene and Mighty Prince <hi>Charles</hi> King of <hi>Sueden,</hi> by the Interpoſition of His Mediation, in bringing this Happy Work of the Peace, with the Divine Aſſiſtance, to the deſired Concluſi<g ref="char:EOLhyphen"/>on; And to shew the like Affection to him, 'tis by conſent of all Parties Stipu<g ref="char:EOLhyphen"/>lated and Agreed, That His ſaid Sacred Royal Majeſty of <hi>Sueden,</hi> shall with all His Kingdoms, Countries, Provinces and Rights be included in this Treaty, and com<g ref="char:EOLhyphen"/>prehended in the beſt manner, in the preſent Pacification.</p>
+            <p n="17">XVII. <hi>Lastly,</hi> The Solemn Ratifications of this preſent Agreement and Alliance made in due Form, shall be delivered on both ſides, and mutuall yand duly Exchanged at the Royal Palace of <hi>Ryſwicke,</hi> in the Province of <hi>Holland,</hi> within the ſpace of Three Weeks, to be reckoned from the Day of the Subſcription, or ſooner if it may be.</p>
+            <p>In Teſtimony of all and every the things before mentioned, and for their great<g ref="char:EOLhyphen"/>er Force, and to give them all the Vigour and full Authority they ought to have, the Underwritten Ambaſſadors Extraordinary and Plenipotentiaries, together with the Illuſtrious and moſt Excellent the Extraordinary Ambaſſador Mediator, have Signed and Sealed the preſent Inſtrument of Peace. <hi>Done,</hi> &amp;c.</p>
+            <closer>
+               <signed>
+                  <hi>Signed by the</hi> English <hi>and</hi> French <hi>Ambaſſadors, and by the Mediator.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="article">
+            <head>SEPARATE ARTICLE.</head>
+            <p>
+               <hi>Beſides</hi> all that is Concluded and Stipulated by the Treaty of Peace Signed this preſent Day, the 20th of <hi>September,</hi> It is moreover Agreed by the preſent Separ<g ref="char:EOLhyphen"/>ate Article, which shall have the ſame Force and Effect as if it was Inſerted Word for Word in the ſaid Treaty, That the moſt Chriſtian King shall Covenant and Agree, and by the preſent Article He does Covenant and Agree, That it shall be free of the Emperor and the Empire, until the Firſt of <hi>November</hi> next, to accept the Conditions of peace lately propoſed by the moſt Chriſtian King, according to the Declaration made on the Firſt Day of this preſent Month, unleſs in the mean time it shall be otherwiſe Agreed between His Imperial Majeſty and the Empire, and His moſt Chriſtian Majeſty. And in caſe His Imperial Majeſty does not with<g ref="char:EOLhyphen"/>in the time prefixed accept thoſe Conditions, or that it be otherwiſe Agreed be<g ref="char:EOLhyphen"/>tween His Imperial Majeſty and the Empire, and His moſt Chriſtian Majeſty, the ſaid Treaty shall have its full Effect, and be duly put in Execution according to its Form and Tenor; And it shall not be lawful for the King of <hi>Great-Britain,</hi> di<g ref="char:EOLhyphen"/>rectly or indirecty, on any account or cauſe whatſoever, to act contrary to the ſaid Treaty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to the Kings moſt Excellent Majeſty, 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
